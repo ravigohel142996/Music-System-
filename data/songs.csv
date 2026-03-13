@@ -1,0 +1,43 @@
+song_id,title,artist,mood,energy_level,language,genre,preview_url,description
+1,Happy,Pharrell Williams,Happy,9,English,Pop,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH,An infectiously upbeat anthem that celebrates pure joy
+2,Can't Stop the Feeling,Justin Timberlake,Happy,9,English,Pop,https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI,A vibrant feel-good anthem full of dance energy
+3,Uptown Funk,Mark Ronson ft. Bruno Mars,Happy,9,English,Funk/Pop,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS,Irresistibly funky and full of swagger
+4,Shake It Off,Taylor Swift,Happy,8,English,Pop,https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD,Carefree pop energy telling you to dance away the haters
+5,Walking on Sunshine,Katrina & The Waves,Happy,9,English,Pop/Rock,https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0,A timeless burst of pure sunshine and positivity
+6,Good as Hell,Lizzo,Happy,8,English,Pop/Soul,https://open.spotify.com/track/6KgBpzTuTyPQ7oELxlazM5,Empowering self-love anthem with irresistible beats
+7,Blinding Lights,The Weeknd,Happy,8,English,Synth-pop,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b,High-energy 80s-inspired synth-pop banger
+8,Levitating,Dua Lipa,Happy,8,English,Disco-pop,https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9,Futuristic disco-pop that makes you want to dance
+9,The Night We Met,Lord Huron,Sad,3,English,Indie Folk,https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ,A haunting ballad about longing and heartbreak
+10,Someone Like You,Adele,Sad,2,English,Pop/Soul,https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV,Powerful emotional ballad about lost love
+11,Fix You,Coldplay,Sad,3,English,Alternative Rock,https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q,A gentle heartfelt song about healing and hope
+12,The Sound of Silence,Simon & Garfunkel,Sad,2,English,Folk Rock,https://open.spotify.com/track/3YfS47QufnLDFA71FUsgCM,A poetic reflection on isolation and loneliness
+13,Skinny Love,Bon Iver,Sad,2,English,Indie Folk,https://open.spotify.com/track/4tkTEIPM71o3u2eVlLDlf9,Heartbreakingly beautiful folk whispers
+14,All I Want,Kodaline,Sad,2,English,Indie Pop,https://open.spotify.com/track/2wMwO5BpBDfHVoBxCVBNXQ,A deeply emotional song about longing and loss
+15,Hurt,Johnny Cash,Sad,2,English,Country/Alternative,https://open.spotify.com/track/28cngnfxDf7GQdoWlDNRHs,A devastatingly raw cover about pain and regret
+16,Kill Bill,SZA,Sad,3,English,R&B,https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL,Dark and cathartic emotional release
+17,Killing Me Softly,Fugees,Sad,3,English,R&B/Hip-Hop,https://open.spotify.com/track/7yq4Qp2GQC7gDGPTnEqhiR,Smooth soulful delivery with emotional depth
+18,Break Stuff,Limp Bizkit,Angry,10,English,Nu-Metal,https://open.spotify.com/track/44UHv5HpCEXPaK7j0AzTAq,Raw aggression and rage channeled into metal
+19,Killing in the Name,Rage Against the Machine,Angry,10,English,Rap Metal,https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp,Explosive political rage and rebellion
+20,Given Up,Linkin Park,Angry,9,English,Nu-Metal,https://open.spotify.com/track/1KQNV7RBSmhqBRkuBDaoCH,Intense frustration and emotional catharsis
+21,Breathe (2 AM),Anna Nalick,Angry,4,English,Indie Pop,https://open.spotify.com/track/3G9H2LdvTv4K8lI24YJPDF,Calming reflection that transforms anger into acceptance
+22,Weight of the World,Evanescence,Angry,6,English,Alternative Metal,https://open.spotify.com/track/0nGkOEeNx2bAVPLpjS9jFo,Powerful emotional release through heavy music
+23,Numb,Linkin Park,Angry,7,English,Nu-Metal,https://open.spotify.com/track/3igfFJGpFMWCzSpBuHEZcx,Cathartic rebellion against expectations
+24,Weightless,Marconi Union,Neutral,2,English,Ambient,https://open.spotify.com/track/1fO3u1Y7bPVDOq4i7TgJcg,Scientifically proven most relaxing song ever created
+25,Lo-Fi Hip Hop Study Beats,Various Artists,Neutral,3,English,Lo-Fi Hip Hop,,Chill beats perfect for focus and background listening
+26,Intro,The xx,Neutral,3,English,Indie/Electronic,https://open.spotify.com/track/0kHiMpUUlApFJVfoCIEFcl,Minimalist atmospheric soundscape for reflection
+27,Comptine d'un autre été,Yann Tiersen,Neutral,3,French,Classical/Film,https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g,Delicate piano piece from Amélie soundtrack
+28,Flightless Bird,Iron & Wine,Neutral,3,English,Folk,https://open.spotify.com/track/3i2PDPe3R8aTLFGN1sGJMV,Gentle reflective folk for quiet moments
+29,Ode to My Family,Cranberries,Neutral,4,English,Alternative Rock,https://open.spotify.com/track/3kzj4Y74AxnJMNZO5HJVer,Nostalgic and warm alternative rock gem
+30,Mr. Brightside,The Killers,Surprise,8,English,Indie Rock,https://open.spotify.com/track/003vvx7Niy0yvhvHt4a14Y,An iconic surge of unexpected emotion and energy
+31,Bohemian Rhapsody,Queen,Surprise,8,English,Rock/Opera,https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J,Epic unpredictable rollercoaster of musical genres
+32,Thunderstruck,AC/DC,Surprise,10,English,Hard Rock,https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj,An electrifying opening that hits like a thunderbolt
+33,Seven Nation Army,The White Stripes,Surprise,8,English,Garage Rock,https://open.spotify.com/track/2UK2BzvFSMpLMkS25KenDj,Hypnotic iconic riff with surprising intensity
+34,Believer,Imagine Dragons,Surprise,9,English,Pop Rock,https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP,Powerful anthem about turning pain into strength
+35,Take On Me,a-ha,Surprise,8,English,Synth-pop,https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L,Nostalgic synth-pop surprise with unforgettable hook
+36,Clair de Lune,Claude Debussy,Relaxed,1,Instrumental,Classical,,Timeless piano masterpiece perfect for deep relaxation
+37,Gymnopédie No.1,Erik Satie,Relaxed,1,Instrumental,Classical,,Hauntingly beautiful minimalist piano for calm reflection
+38,Orinoco Flow,Enya,Relaxed,2,English,New Age,https://open.spotify.com/track/4PHSE6V0LBsmOBPUFgD6bE,Ethereal flowing soundscape for meditation and peace
+39,Breathe,Pink Floyd,Relaxed,3,English,Progressive Rock,https://open.spotify.com/track/1HMiIRHlIEXo5EJCMEtJcN,Dreamy atmospheric journey through sound
+40,Strawberry Fields Forever,The Beatles,Relaxed,3,English,Psychedelic Rock,https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfz,Dreamy psychedelic trip through calm imagination
+41,Ocean Eyes,Billie Eilish,Relaxed,2,English,Indie Pop,https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx,Delicate whispered vocals over gentle ambient production
+42,Somewhere Over the Rainbow,Israel Kamakawiwoʻole,Relaxed,2,English,Hawaiian,https://open.spotify.com/track/1BNAb3oFV6Tlv81G5BZwXM,The most soothing ukulele rendition of a timeless classic
